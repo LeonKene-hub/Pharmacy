@@ -140,3 +140,5 @@ C:\Users\56026708820\Desktop\PharmacyAPI_Test\PharmacyTest\bin\Debug\net8.0\Micr
 C:\Users\56026708820\Desktop\PharmacyAPI_Test\PharmacyTest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
 C:\Users\56026708820\Desktop\PharmacyAPI_Test\PharmacyTest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
 C:\Users\56026708820\Desktop\PharmacyAPI_Test\PharmacyTest\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\56026708820\Desktop\PharmacyAPI_Test\PharmacyTest\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\56026708820\Desktop\PharmacyAPI_Test\PharmacyTest\bin\Debug\net8.0\Moq.dll

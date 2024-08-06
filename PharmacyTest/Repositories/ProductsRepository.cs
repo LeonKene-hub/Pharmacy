@@ -7,6 +7,11 @@ namespace PharmacyTest.Repositories
     public class ProductsRepository : IProductsRepository
     {
         private readonly PharmacyContext _pharmacyContext;
+
+        public ProductsRepository()
+        {
+            _pharmacyContext = new PharmacyContext();
+        }
         public void Delete(Guid id)
         {
             Products finded = _pharmacyContext.Products.Find(id)!;

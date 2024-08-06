@@ -9,7 +9,7 @@ namespace PharmacyTest.Contexts
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server= DESKTOP-3BKCPN3; Database=Pharmacy; User Id =sa; pwd =Senai@134; TrustServerCertificate=True;");
+            optionsBuilder.UseSqlServer("Server= DESKTOP-3BKCPN3; Database=Pharmacy; User Id=sa; pwd=Senai@134; TrustServerCertificate=True;");
             base.OnConfiguring(optionsBuilder);
         }
     }
